@@ -1,5 +1,6 @@
 import java.util.*;
-class HelloTillStop {
+class
+HelloTillStop {
     Scanner sc = new Scanner(System.in);
 
     //outputs Hello while user wants to
