@@ -1,4 +1,4 @@
-public class Variables {
+class Variables {
     void showInterest(){
         double amount;
         double interest; //percentage
