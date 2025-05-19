@@ -4,7 +4,7 @@ public class MainApplication {
 
     public static void main(String[] args) {
 
-        Admin curAdmin = new Admin(1609, "Mercy", "xa1@LW42%3");
+        Admin curAdmin = new Admin(187915, "Mercy", "xa1@LW42%3");
 
         User curUser = new User(1110, "Victor");
 
